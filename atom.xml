@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kernelzhen.github.io</id>
+    <id>https://https://github.com/kernelzhen/kernelzhen.github.io.git</id>
     <title>zivwong</title>
-    <updated>2021-06-28T09:54:05.593Z</updated>
+    <updated>2021-06-28T10:14:02.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kernelzhen.github.io"/>
-    <link rel="self" href="https://kernelzhen.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://github.com/kernelzhen/kernelzhen.github.io.git"/>
+    <link rel="self" href="https://https://github.com/kernelzhen/kernelzhen.github.io.git/atom.xml"/>
     <subtitle>书读百遍其义自见</subtitle>
-    <logo>https://kernelzhen.github.io/images/avatar.png</logo>
-    <icon>https://kernelzhen.github.io/favicon.ico</icon>
+    <logo>https://https://github.com/kernelzhen/kernelzhen.github.io.git/images/avatar.png</logo>
+    <icon>https://https://github.com/kernelzhen/kernelzhen.github.io.git/favicon.ico</icon>
     <rights>All rights reserved 2021, zivwong</rights>
     <entry>
         <title type="html"><![CDATA[nginx]]></title>
-        <id>https://kernelzhen.github.io/post/nginx/</id>
-        <link href="https://kernelzhen.github.io/post/nginx/">
+        <id>https://https://github.com/kernelzhen/kernelzhen.github.io.git/post/nginx/</id>
+        <link href="https://https://github.com/kernelzhen/kernelzhen.github.io.git/post/nginx/">
         </link>
         <updated>2021-06-28T09:40:47.000Z</updated>
         <content type="html"><![CDATA[<p>hahah</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://kernelzhen.github.io/post/hello-gridea/</id>
-        <link href="https://kernelzhen.github.io/post/hello-gridea/">
+        <id>https://https://github.com/kernelzhen/kernelzhen.github.io.git/post/hello-gridea/</id>
+        <link href="https://https://github.com/kernelzhen/kernelzhen.github.io.git/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
