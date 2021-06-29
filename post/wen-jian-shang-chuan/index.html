@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>zivwong</title>
+<title>文件上传 | zivwong</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -18,8 +18,16 @@
 
 
 
-    <meta name="description" content="书读百遍其义自见">
-    
+    <meta name="description" content="# 靶场
+https://github.com/sqlsec/upload-labs-docker.git
+# 进入项目文件夹
+cd upload-labs-docker
+
+# 一键部署运行
+docker-compose up -d
+
+默认..." />
+    <meta name="keywords" content="web安全" />
   </head>
   <body>
     <div id="app" class="main">
@@ -89,42 +97,50 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://kernelzhen.github.io/post/wen-jian-shang-chuan/">
-                  <h2 class="post-title">文件上传</h2>
-                </a>
-                <div class="post-date">
-                  2021-06-29
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://kernelzhen.github.io/post/nginx/">
-                  <h2 class="post-title">nginx</h2>
-                </a>
-                <div class="post-date">
-                  2021-06-28
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
+          <div class="post-detail">
+            <h2 class="post-title">文件上传</h2>
+            <div class="post-date">2021-06-29</div>
+            
+            <div class="post-content" v-pre>
+              <pre><code># 靶场
+https://github.com/sqlsec/upload-labs-docker.git
+# 进入项目文件夹
+cd upload-labs-docker
 
-          <div class="pagination-container">
-  
-  
-</div>
+# 一键部署运行
+docker-compose up -d
+</code></pre>
+<p>默认 13 个关卡运行的端口为 30001-30013 这 13 个端口上</p>
+<h3 id="js">JS</h3>
+<img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/1624947946672.jpg">
+![](https://kernelzhen.github.io/post-images/1624948192565.jpg)
+1：抓包
+因为是前段验证的问题，可以直接将 11.php 重命名为 1.png 上传抓包的时候再将文件名修改为 11.php 即可绕过前段限制，成功上传 webshell。
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://kernelzhen.github.io/tag/sV34YD0US/" class="tag">
+                    web安全
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://kernelzhen.github.io/post/nginx/">
+                  <h3 class="post-title">
+                    nginx
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
 
         </div>
       </div>
