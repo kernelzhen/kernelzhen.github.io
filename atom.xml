@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kernelzhen.github.io</id>
     <title>zivwong</title>
-    <updated>2021-06-29T06:30:51.281Z</updated>
+    <updated>2021-06-29T08:15:13.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kernelzhen.github.io"/>
     <link rel="self" href="https://kernelzhen.github.io/atom.xml"/>
@@ -27,9 +27,13 @@ docker-compose up -d
 <p>默认 13 个关卡运行的端口为 30001-30013 这 13 个端口上</p>
 <h3 id="js">JS</h3>
 <img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/1624947946672.jpg">
-![](https://kernelzhen.github.io/post-images/1624948192565.jpg)
-1：抓包
-因为是前段验证的问题，可以直接将 11.php 重命名为 1.png 上传抓包的时候再将文件名修改为 11.php 即可绕过前段限制，成功上传 webshell。
+<p>因为是前段验证的问题，可以直接将 11.php 重命名为 1.png 上传抓包的时候再将文件名修改为 11.php 即可绕过前段限制，成功上传 webshell。<br>
+<img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/1624949011729.jpg"><br>
+<img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/1624948940586.jpg"></p>
+<h3 id="mtme">MTME</h3>
+<p>抓取上传数据包把<code>Content-Type: text/php</code>修改成<code>Content-Type: image/png</code><br>
+<img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/mtme1.jpg"><br>
+<img src="https://blog-1300601791.cos.ap-hongkong.myqcloud.com/upload/mtme2.jpg"></p>
 ]]></content>
     </entry>
     <entry>
